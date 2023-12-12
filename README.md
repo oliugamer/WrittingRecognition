@@ -1,8 +1,10 @@
 # Writting Recognition
 
-This is a webapp that uses a neural network made with tensorflow to recognise handwritten capital letters. 
+*The web app part is WIP :)*
 
-This project is divided in two, the upyter notebook and the app itself.
+This is a web app that uses a neural network made with tensorflow to recognise handwritten capital letters. 
+
+This project is divided in two, the upyter notebook and the web app itself.
 
 Code specifications: 
 - You will need the following libraries, mostly for the notebook:
